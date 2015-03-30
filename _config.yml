@@ -1,0 +1,17 @@
+# Site settings
+title: Fatik's Blog
+header-img: img/home-bg.jpg
+email: fatikowais@gmail.com
+description: "Ungraduate Computer Engineer. Made this blog to share some stuff to the big world"
+baseurl: ""
+url: "http://fatik.github.io"
+twitter_username: fatikowais
+github_username:  fatik
+facebook_username:  FatikOwais
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
